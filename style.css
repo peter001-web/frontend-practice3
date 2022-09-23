@@ -106,9 +106,74 @@ header{
     background-color: #11AEEF;
     transition-duration: 0.4s;
     cursor: pointer;
+    margin-bottom: 50px;
 }
 
 .head-4 button:hover {
     background-color: black;
+    color: white;
+  }
+
+
+  .main-1{
+    display: flex;
+    gap: 150px;
+    width: 100%;
+  }
+
+  .main-1 img{
+    width: 200%;
+  }
+
+  .main-2{
+    display: flex;
+    gap: 20px;
+  }
+
+  .main-2 h2{
+    font-size: 50px;
+    font-family: sans-serif;
+    margin-bottom: 40px;
+  }
+
+  .main-2 h3{
+    font-size: 50px;
+    color: #11AEEF;
+    font-family:sans-serif;
+  }
+
+  .main-3{
+    margin: auto;
+    margin-left: 170px;
+  }
+
+  .main-3 p{
+    color: rgb(1, 10, 5);
+    font-size: 19px;
+    font-family: sans-serif;
+    line-height: 35px;
+    /* font-weight: 400; */
+    padding-bottom: 50px;
+    width: 85%;
+  }
+
+
+  .main-3 button{
+    /* margin-top: 50px; */
+    font-weight: 400;
+    padding: 20px 60px;
+    border-radius: 40px;
+    font-size: 19px;
+    border: 5px solid #11AEEF;
+    background-color: white;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-bottom: 50px;
+    font-size: 17x;
+    margin-left: 400px;
+}
+
+.main-3 button:hover {
+    background-color: #11AEEF;
     color: white;
   }
