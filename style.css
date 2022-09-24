@@ -134,12 +134,14 @@ header{
     font-size: 50px;
     font-family: sans-serif;
     margin-bottom: 40px;
+    font-weight: 100;
   }
 
   .main-2 h3{
     font-size: 50px;
     color: #11AEEF;
     font-family:sans-serif;
+    font-weight: 100;
   }
 
   .main-3{
@@ -176,4 +178,26 @@ header{
 .main-3 button:hover {
     background-color: #11AEEF;
     color: white;
+  }
+
+
+  .main-4{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    gap: 20px;
+    margin-top: 40px;
+  }
+
+  .main-4 h2{
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 100;
+  }
+
+  .main-4 h3{
+    font-size: 50px;
+    color: #11AEEF;
+    font-family: sans-serif;
+    font-weight: 100;
   }
