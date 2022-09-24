@@ -201,6 +201,8 @@ header{
     font-family: sans-serif;
     font-weight: 100;
   }
+
+
   
   .box-1{
     gap: 300px;
@@ -208,28 +210,35 @@ header{
     margin-bottom: 200px;
     border: 1px solid black;
     background: url(../images/why.jpg);
-    padding: 120px 0px;
+    padding: 30px 0px;
+    margin-top: 60px;
   }
   
+ 
+
+
   .box-2{
-    margin-left: 150px;
+    margin-left: 130px;
     margin-top: 80px;
     margin-bottom: 80px;
     
   }
 
   .box-2 h2{
-    font-size: 30px;
+    font-size: 25px;
     background-color: black;
     border: 1px solid black;
     color: white;
-    padding: 15px 14px;
+    padding: 15px 13px;
     cursor: pointer;
+    font-family: sans-serif;
+    width: 100%;
   }
   
   .box-2 button{
-    margin-top: 20px;
-    font-size: 25px;
+    margin-top: 40px;
+    width: 110%;
+    font-size: 26px;
     display: flex;
     padding: 15px 14px;
     border-style: none;
@@ -237,16 +246,64 @@ header{
      cursor: pointer;
     padding-right: 110px;
     background-color: inherit;
-
-  
+    font-family: sans-serif;
 }
 
   
 
   .box-2 button:hover {
-    background-color: black;
-    /* border: 1px solid black; */
+    background-color:  black;
     color: white;
     /* text-decoration: none ;
     outline: none ; */
+  }
+
+
+  .box-3 {
+    border: 1px solid ;
+    border-style: none;
+    background-color: white;
+    margin-bottom: 80px;
+    /* margin-left: -290px; */
+    margin-right: 150px;
+    margin-top: 80px;
+    box-sizing: border-box;
+    /* padding: 20px 10px; */
+
+  }
+
+  .box-3 p{
+    width: 81%;
+    line-height: 1.4em;
+    font-size: 20px;
+    padding-left: 70px; 
+    color: rgb(1, 10, 5);
+    font-weight: 500;
+  }
+
+  .box-3 img{
+    /* margin: auto; */
+    margin-top: 30px;
+    /* justify-content: center; */
+    max-width: 100%;
+    margin-left: 350px;
+    
+
+  }
+
+  .box-3 h2{
+    /* justify-content: center; */
+    color: rgb(0, 174, 239);
+    font-size: 29px;
+    line-height: 28px;
+    font-weight: 500;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    margin: auto;
+    margin-left: 330px;
+  }
+
+  .box-4{
+    display: flex;
+    width: 100%;
   }
