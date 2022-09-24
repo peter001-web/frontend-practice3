@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    /* border: 1px solid red; */
+    padding: 0;
+}
+
+header{
+    width: 90%;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+.head-2{
+    width: 3%;
+    display: flex;
+    gap: 10px;
+}
+
+.head-2 h2{
+    font-size: 30px;
+}
+
+.head-1{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.head-3 button{
+    border: 1px solid black;
+    padding: 0px 50px;
+    border-radius: 5px;
+    background-color: white;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.head-3 button:hover {
+    background-color: black;
+    color: white;
+  }
+
+.head-3{
+    display: flex;
+    gap: 70px;
+}
+
+.head-3 img{
+    width: 5%;
+}
+
+.head-3 h3{
+    justify-content: center;
+    align-items: center;
+}
