@@ -34,11 +34,14 @@ header{
 
 .head-3 button{
     border: 1px solid black;
-    padding: 0px 50px;
-    border-radius: 5px;
+    padding: 0px 40px;
+    border-radius: 8px;
     background-color: white;
     transition-duration: 0.4s;
     cursor: pointer;
+    border-style: none;
+    font-size: 17px;
+    font-family: sans-serif;
 }
 
 .head-3 button:hover {
