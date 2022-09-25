@@ -369,5 +369,94 @@ header{
     color: white;
   }
 
+
+  .Request{
+    margin-bottom: 100px;
+    background-color: #0192C8;
+    padding: 90px 70px;
+    display: flex;
+    gap: 100px;
+    
+  }
+
+  .Request img{
+    width: 50%;
+    position: relative;
+    margin: auto;
+  }
   
+  .Request-B{
+    /* width: 100%; */
+    display: flex;
+    gap: 20px;
+  }
+
+  .Request-B h2{
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 400;
+  }
+
+   .Request-B h3{
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+   }
   
+   .Request-C{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 80%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    /* padding: 40px; */
+   }
+
+   .Request-C input{
+    margin-bottom: 10px;
+    width: 100%;
+    height: 60px;
+    color: rgb(119, 121, 119);
+    font-size: 18px;
+    font-weight: normal;
+    border-radius: 35px;
+    padding: 0px 50px;
+    padding-right: 90px;
+    background: rgb(255, 255, 255);
+    /* border: inherit; */
+}
+   
+
+#msg input{
+  margin-bottom: 5px;
+    width: 100%;
+    color: rgb(119, 121, 119);
+    font-size: 18px;
+    font-weight: normal;
+    padding: 63px 29px 10px;
+    background: rgb(255, 255, 255);
+    border: inherit;
+    border-radius: 20px;
+    padding-right: 110px;
+    /* padding: 0px 30px;   */
+}
+
+
+.Request button{
+  padding: 10px 70px;
+  border-radius: 40px;
+  font-size: 20px;
+  border: 5px solid white;
+  background-color: white;
+  transition-duration: 0.7s;
+  cursor: pointer;
+  margin-left: 150px;
+}
+
+.Request button:hover {
+  background-color: black;
+  color: white;
+}
+
