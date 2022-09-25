@@ -371,7 +371,7 @@ header{
 
 
   .Request{
-    margin-bottom: 100px;
+    margin-bottom: 60px;
     background-color: #0192C8;
     padding: 90px 70px;
     display: flex;
@@ -460,3 +460,7 @@ header{
   color: white;
 }
 
+footer{
+  background-color: #0192C8;
+  margin-bottom: 100px;
+}
