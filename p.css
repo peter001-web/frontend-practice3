@@ -1,0 +1,47 @@
+*{
+    border: 1px solid red;
+    color: white;
+    margin: 0;
+
+}
+
+footer{
+    background-color: black;
+}
+
+.foot{
+    display: flex;
+    margin-left: 100px;
+    gap: 40px;
+}
+
+.foot-1 p{
+    width: 80%;
+}
+
+.foot-1{
+    width: 30%;
+}
+
+.foot-1 h2{
+    width: 50%;
+}
+
+
+.foot-3 img{
+width: 15%;
+/* width: 15%; */
+border: 1px solid black;
+background-color: white;
+border-style: none;
+border-radius: 110px;
+margin-left: 10px;
+}
+
+.foot-2{
+    display: flex;
+    gap: 20px;
+    margin-top: 10px;
+    align-items: center;
+    width: 50%;
+}
