@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     padding: 0;
 }
 .head{
@@ -462,15 +462,15 @@ header{
 
 footer{
   background-color: #0192C8;
-  margin-bottom: 100px;
-  border: 1px solid black;
+  /* margin-bottom: 100px; */
+  border: 1px solid #000000;
   background-color: #212120;
   /* gap: 20px; */
 
 }
 
 .foot-3 img{
-  width: 8%;
+  width: 15%;
   border: 1px solid black;
   background-color: white;
   border-style: none;
@@ -480,15 +480,14 @@ footer{
 
 .foot-3{
   color: white;
-  border: 5px solid green;
-
-  /* width: 50%; */
+  /* width: 100%; */
+  width: 20%;
 }
 
 
 
 .foot-3 h2{
-  margin-left: 50px;
+  /* margin-left: 50px; */
   color: white;
   font-size: 35px;
   font-weight: 300;
@@ -504,9 +503,7 @@ footer{
   margin-top: 10px;
   align-items: center;
   width: 50%;
-  margin-left: 50px;
-
-
+  /* margin-left: 50px; */
 }
 
 .foot-4 h3{
@@ -517,7 +514,7 @@ footer{
 }
 
 .foot-1 p{
-  width: 90%;
+  width: 100%;
   color: #66665B;
   font-size: 18px;
   margin-top: 20px;
@@ -538,16 +535,15 @@ footer{
 
 .foot{
   display: flex;
-  width: 80%;
+  width: 85%;
   gap: 40px;
-  margin-left: 150px;
-  border: 5px solid greenyellow;
+  margin-left: 100px;
   margin-bottom: 50px;
 }
 
 .link{
   color: white;
-  border: 5px solid blue;
+  padding: 0px 10px;
 
 }
 
@@ -561,15 +557,14 @@ footer{
 
 .link li{
   margin-top: 10px;
-  font-size: 19px;
-  /* font-weight: 300; */
+  font-size: 13px;
+  font-weight: 700;
   font-family: sans-serif;
 
 }
 
 .foot-5{
   color: white;
-  border: 5px solid purple;
 }
 
 .foot-5 h2{
