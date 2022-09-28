@@ -493,10 +493,6 @@ footer{
 .foot-1 h2{
     width: 50%;
     font-size: 35px;
-    color: white;
-  font-weight: 200;
-
-
 }
 
 .foot-3 h2{
@@ -505,8 +501,6 @@ footer{
 
 .link h2{
     font-size: 35px;
-  font-weight: 200;
-
 }
 
 .link{
@@ -526,10 +520,6 @@ footer{
     margin-left: 100px;
 }
 
-.foot-3 h2{
-  color: white;
-  font-weight: 200;
-}
 
 .foot-3 img{
 width: 25%;
@@ -547,9 +537,7 @@ border-radius: 110px;
     margin-top: 10px;
     align-items: center;
     width: 50%;
-    color: white;
 }
-
 
 .foot-2 h3{
     font-size: 19px;
@@ -564,10 +552,9 @@ border-radius: 110px;
   
   .foot-5 h2{
     font-size: 35px;
+    font-weight: 300;
     font-family: sans-serif;
     margin-bottom: 10px;
-  font-weight: 200;
-
   }
   
   .foot-5 input{
