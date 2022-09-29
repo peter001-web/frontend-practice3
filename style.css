@@ -476,10 +476,10 @@ footer{
 }
 
 .foot-1 p{
-    width: 90%;
+    width: 80%;
     /* width: 1 00%; */
     color: #66665B;
-    font-size: 18px;
+    font-size: 17px;
     margin-top: 20px;
     font-family: sans-serif;
     line-height: 1.5em;
@@ -580,12 +580,14 @@ border-radius: 110px;
 
   .foot-5 button{
     background-color: #0192C8;
-    padding: 15px 25px;
+    padding: 17px 35px;
     cursor: pointer;
     font-size: 17px;
     margin-top: 20px;
-    border-radius: 6px;
+    border-radius: 8px;
     transition: 0.9s;
+    border-style: none;
+    color: white;
   }
 
   .foot-5 button:hover{
