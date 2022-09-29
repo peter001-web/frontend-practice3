@@ -493,6 +493,10 @@ footer{
 .foot-1 h2{
     width: 50%;
     font-size: 35px;
+    color: white;
+  font-weight: 200;
+
+
 }
 
 .foot-3 h2{
@@ -501,6 +505,8 @@ footer{
 
 .link h2{
     font-size: 35px;
+  font-weight: 200;
+
 }
 
 .link{
@@ -558,9 +564,10 @@ border-radius: 110px;
   
   .foot-5 h2{
     font-size: 35px;
-    font-weight: 300;
     font-family: sans-serif;
     margin-bottom: 10px;
+  font-weight: 200;
+
   }
   
   .foot-5 input{
