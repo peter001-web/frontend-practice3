@@ -520,10 +520,6 @@ footer{
     margin-left: 100px;
 }
 
-.foot-3 h2{
-  color: white;
-  font-weight: 200;
-}
 
 .foot-3 img{
 width: 25%;
@@ -541,9 +537,7 @@ border-radius: 110px;
     margin-top: 10px;
     align-items: center;
     width: 50%;
-    color: white;
 }
-
 
 .foot-2 h3{
     font-size: 19px;
